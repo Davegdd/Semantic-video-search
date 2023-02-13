@@ -9,7 +9,7 @@ The model has several limitations that are really well explained in the correspo
 
 # Install
 ## Option 1 Docker
-Download docker-compose file in a local folder and run (make sure you have Docker installed):
+Download the [docker-compose](https://github.com/Davegdd/Semantic-video-search/blob/main/docker-compose.yml) file in a local folder and run (make sure you have Docker installed):
 
 ```
 docker-compose up
