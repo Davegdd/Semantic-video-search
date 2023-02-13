@@ -1,6 +1,8 @@
 # Semantic video search
 Search a scene in a video using natural language with the multimodal model X-CLIP which combines NLP and CV.
 
+(click on GIF below to open in higher quality)
+
 ![Readme GIF](https://user-images.githubusercontent.com/108660081/218447254-8f035b9b-f1a7-4fc1-92fc-a97225669880.gif)
 
 This app allows you to find a scene in a video by just describing it in natural language. It uses [X-CLIP](https://arxiv.org/pdf/2208.02816.pdf), an extension of the model [CLIP](https://arxiv.org/pdf/2103.00020.pdf) (Contrastive Language-Image Pre-Training) which forms parts of the current trend of multimodal models and more specifically the trend in using natural language as a training signal for learning about a domain other than language. Using text as the supervision allows for impressive zero-shot performance and generalization.
